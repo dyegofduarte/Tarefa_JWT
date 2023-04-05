@@ -10,4 +10,4 @@ Depois de ler o documento (https://pw2.rpmhub.dev/topicos/jwt/jwt.html) sobre JW
 
 
 COMO TESTAR:
-Colar o token no site https://jwt.io/ e verificar se o texto está criptografado ou em texto claro
+Colar o token gerado pelo terceiro serviço no site https://jwt.io/ e verificar se o texto está criptografado ou em texto claro
